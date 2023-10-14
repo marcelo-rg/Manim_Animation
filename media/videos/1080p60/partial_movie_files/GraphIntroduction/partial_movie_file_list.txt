@@ -1,7 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/Marcelo/github/Manim_Animation/media/videos/1080p60/partial_movie_files/GraphIntroduction/1413466013_1396529938_2999760705.mp4'
-file 'file:D:/Marcelo/github/Manim_Animation/media/videos/1080p60/partial_movie_files/GraphIntroduction/1672018281_1887002061_4023243783.mp4'
-file 'file:D:/Marcelo/github/Manim_Animation/media/videos/1080p60/partial_movie_files/GraphIntroduction/1672018281_3653470740_2152968409.mp4'
-file 'file:D:/Marcelo/github/Manim_Animation/media/videos/1080p60/partial_movie_files/GraphIntroduction/1672018281_3653470740_2753532899.mp4'
-file 'file:D:/Marcelo/github/Manim_Animation/media/videos/1080p60/partial_movie_files/GraphIntroduction/1672018281_1887002061_1825173569.mp4'
-file 'file:D:/Marcelo/github/Manim_Animation/media/videos/1080p60/partial_movie_files/GraphIntroduction/1672018281_3653470740_3935437315.mp4'
